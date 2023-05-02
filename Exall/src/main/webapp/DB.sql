@@ -57,3 +57,5 @@ insert into department_2023 values('90', '기타', '학교');
 
 
 select * from department_2023
+
+select * from student_2021 where student_no=?
